@@ -1,2 +1,1 @@
-# personalSplashPage
-my personal Splash Page
+Firebase project
